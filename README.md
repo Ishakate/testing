@@ -1,3 +1,3 @@
 # testing
 
-tesotwy tekst do cwiczenia w
+tesotwy tekst do cwiczenia www
